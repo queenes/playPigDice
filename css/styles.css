@@ -2,3 +2,17 @@
 background-image: url("../assets/images/bgpigface.jpg");
 
 }
+.column1, .column2{
+
+  width: 100%;
+}
+.h2{
+  text-align: center;
+}
+
+#start{
+align-content: center;
+}
+.display{
+  display: none;
+}
